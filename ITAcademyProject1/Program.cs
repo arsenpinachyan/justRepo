@@ -6,7 +6,8 @@ namespace ITAcademyProject1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Arsen!");
+            Console.WriteLine("Nice to meet you !");
         }
     }
 }

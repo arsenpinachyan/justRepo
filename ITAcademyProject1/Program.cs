@@ -9,6 +9,7 @@ namespace ITAcademyProject1
             Console.WriteLine("Hello Arsen!");
             Console.WriteLine("Nice to meet you !");
             Console.WriteLine("New changes!");
+            Console.WriteLine("New new change");
         }
     }
 }
